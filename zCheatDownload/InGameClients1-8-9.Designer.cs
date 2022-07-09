@@ -1,6 +1,6 @@
 ﻿namespace zCheatDownload
 {
-    partial class InGameClients
+    partial class InGameClients1_8_9
     {
         /// <summary>
         /// Required designer variable.
@@ -39,30 +39,30 @@
             this.label1.Location = new System.Drawing.Point(636, 421);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(152, 20);
-            this.label1.TabIndex = 5;
+            this.label1.TabIndex = 6;
             this.label1.Text = "By xSelimX_xJD#0001";
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(256, 189);
+            this.button1.Location = new System.Drawing.Point(232, 202);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(94, 29);
-            this.button1.TabIndex = 6;
-            this.button1.Text = "1.8.9";
+            this.button1.Size = new System.Drawing.Size(108, 29);
+            this.button1.TabIndex = 7;
+            this.button1.Text = "LiquidBounce\r\n\r\n";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(398, 189);
+            this.button2.Location = new System.Drawing.Point(440, 202);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(94, 29);
-            this.button2.TabIndex = 7;
-            this.button2.Text = "1.16.5";
+            this.button2.TabIndex = 8;
+            this.button2.Text = "FDPClient";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
-            // InGameClients
+            // InGameClients1_8_9
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -70,8 +70,8 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
-            this.Name = "InGameClients";
-            this.Text = "zCheatDownload - In Game Clients";
+            this.Name = "InGameClients1_8_9";
+            this.Text = "zCheatDownload - In Game Clients 1.8.9";
             this.ResumeLayout(false);
             this.PerformLayout();
 

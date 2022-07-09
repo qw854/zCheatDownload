@@ -1,6 +1,6 @@
 ﻿namespace zCheatDownload
 {
-    partial class InGameClients
+    partial class InGameClients_1_16_5
     {
         /// <summary>
         /// Required designer variable.
@@ -29,8 +29,6 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -42,36 +40,14 @@
             this.label1.TabIndex = 5;
             this.label1.Text = "By xSelimX_xJD#0001";
             // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(256, 189);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(94, 29);
-            this.button1.TabIndex = 6;
-            this.button1.Text = "1.8.9";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(398, 189);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(94, 29);
-            this.button2.TabIndex = 7;
-            this.button2.Text = "1.16.5";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
-            // 
-            // InGameClients
+            // InGameClients_1_16_5
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
-            this.Name = "InGameClients";
-            this.Text = "zCheatDownload - In Game Clients";
+            this.Name = "InGameClients_1_16_5";
+            this.Text = "zCheatDownload - In Game Clients 1.16.5";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -80,7 +56,5 @@
         #endregion
 
         private Label label1;
-        private Button button1;
-        private Button button2;
     }
 }

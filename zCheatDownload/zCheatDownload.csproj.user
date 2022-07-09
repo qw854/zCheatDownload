@@ -7,7 +7,13 @@
     <Compile Update="GhostClients.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="InGameClients-1-16-5.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="InGameClients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InGameClients1-8-9.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

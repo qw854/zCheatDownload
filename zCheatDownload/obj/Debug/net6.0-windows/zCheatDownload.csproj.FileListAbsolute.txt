@@ -17,3 +17,5 @@ C:\Users\Emre\source\repos\zCheatDownload\zCheatDownload\obj\Debug\net6.0-window
 C:\Users\Emre\source\repos\zCheatDownload\zCheatDownload\obj\Debug\net6.0-windows\zCheatDownload.genruntimeconfig.cache
 C:\Users\Emre\source\repos\zCheatDownload\zCheatDownload\obj\Debug\net6.0-windows\ref\zCheatDownload.dll
 C:\Users\Emre\source\repos\zCheatDownload\zCheatDownload\obj\Debug\net6.0-windows\zCheatDownload.InGameClients.resources
+C:\Users\Emre\source\repos\zCheatDownload\zCheatDownload\obj\Debug\net6.0-windows\zCheatDownload.InGameClients_1_16_5.resources
+C:\Users\Emre\source\repos\zCheatDownload\zCheatDownload\obj\Debug\net6.0-windows\zCheatDownload.InGameClients1_8_9.resources
